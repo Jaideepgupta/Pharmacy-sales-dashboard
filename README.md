@@ -5,7 +5,7 @@
 
 > *Tracking effort, outcomes, and field effectiveness across pharma sales teams*
 
-![Dashboard Preview](Pharmacy_Performance.png)
+![Dashboard Preview](https://raw.githubusercontent.com/Jaideepgupta/Pharmacy-sales-dashboard/main/Pharmacy%20Performance.png)
 
 ---
 
