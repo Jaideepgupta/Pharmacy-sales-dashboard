@@ -7,6 +7,12 @@
 
 ![Dashboard Preview](https://raw.githubusercontent.com/Jaideepgupta/Pharmacy-sales-dashboard/main/Pharmacy%20Performance.png)
 
+## 🔗 Live Dashboard
+
+Explore the interactive dashboard on Tableau Public:
+
+👉 https://public.tableau.com/app/profile/jaideep.gupta7070/viz/PharmacyDashboard_5_17696851082490/PharmacyPerformance
+
 ---
 
 ## 📌 Overview
